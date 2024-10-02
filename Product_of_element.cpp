@@ -15,5 +15,5 @@ int main()
 {
     int arr[4] = {12, 3, 2, 2};
     product_arr(arr, 4);
-    return 0;
+     return 0;
 }
